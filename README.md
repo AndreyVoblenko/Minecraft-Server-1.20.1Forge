@@ -1,1 +1,1 @@
-# Minecraft-Server
+This is a project that will help you launch your Minecraft server with mods for free! To run it, just download this project and run the Run file.To add mods, just put your modpacks in the Mods folder and you're done! (Note everything is already configured in such a way that it can be used even from unofficial launchers)
